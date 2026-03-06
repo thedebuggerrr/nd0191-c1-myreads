@@ -1,1 +1,5 @@
 starter/node_modules
+node_modules/
+starter/node_modules/.env
+build/
+dist/
